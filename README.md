@@ -27,3 +27,4 @@ Add any URL with the add.sh script.
 ```
 ./add.sh https://slate.com/human-interest/2019/11/50-best-nonfiction-books.html "books, nonfiction"
 ```
+https://www.jamesfmackenzie.com/getting-started-with-the-pocket-developer-api/
